@@ -1,0 +1,389 @@
+found: +1 for every 10 levels, +12 att, +2 for every 10 levels
+found: +1 for every 10 levels, +13 att, 7% stat
+found: +1 for every 10 levels, +13 att, +2 for every 10 levels
+found: +1 for every 10 levels, +14 att, +14 att
+found: +1 for every 10 levels, +14 att, 7% stat
+found: +1 for every 10 levels, +14 att, +2 for every 10 levels
+found: +1 for every 10 levels, 7% stat, +13 att
+found: +1 for every 10 levels, 7% stat, +14 att
+found: +1 for every 10 levels, 7% stat, 7% stat
+found: +1 for every 10 levels, 7% stat, +2 for every 10 levels
+found: +1 for every 10 levels, +2 for every 10 levels, +12 att
+found: +1 for every 10 levels, +2 for every 10 levels, +13 att
+found: +1 for every 10 levels, +2 for every 10 levels, +14 att
+found: +1 for every 10 levels, +2 for every 10 levels, 7% stat
+found: +1 for every 10 levels, +2 for every 10 levels, +2 for every 10 levels
+found: 4% all stat, +12 att, +2 for every 10 levels
+found: 4% all stat, +13 att, +14 att
+found: 4% all stat, +13 att, 7% stat
+found: 4% all stat, +13 att, +2 for every 10 levels
+found: 4% all stat, +14 att, +13 att
+found: 4% all stat, +14 att, +14 att
+found: 4% all stat, +14 att, 7% stat
+found: 4% all stat, +14 att, +2 for every 10 levels
+found: 4% all stat, 7% stat, +13 att
+found: 4% all stat, 7% stat, +14 att
+found: 4% all stat, 7% stat, 7% stat
+found: 4% all stat, 7% stat, +2 for every 10 levels
+found: 4% all stat, +2 for every 10 levels, +12 att
+found: 4% all stat, +2 for every 10 levels, +13 att
+found: 4% all stat, +2 for every 10 levels, +14 att
+found: 4% all stat, +2 for every 10 levels, 7% stat
+found: 4% all stat, +2 for every 10 levels, +2 for every 10 levels
+found: 5% stat, 5% stat, 7% stat
+found: 5% stat, 5% stat, +2 for every 10 levels
+found: 5% stat, 5% all stat, 7% stat
+found: 5% stat, 5% all stat, +2 for every 10 levels
+found: 5% stat, +12 att, +13 att
+found: 5% stat, +12 att, +14 att
+found: 5% stat, +12 att, 7% stat
+found: 5% stat, +12 att, +2 for every 10 levels
+found: 5% stat, +13 att, +12 att
+found: 5% stat, +13 att, +13 att
+found: 5% stat, +13 att, +14 att
+found: 5% stat, +13 att, 7% stat
+found: 5% stat, +13 att, +2 for every 10 levels
+found: 5% stat, +14 att, +12 att
+found: 5% stat, +14 att, +13 att
+found: 5% stat, +14 att, +14 att
+found: 5% stat, +14 att, 7% stat
+found: 5% stat, +14 att, +2 for every 10 levels
+found: 5% stat, 7% stat, 5% stat
+found: 5% stat, 7% stat, 5% all stat
+found: 5% stat, 7% stat, +12 att
+found: 5% stat, 7% stat, +13 att
+found: 5% stat, 7% stat, +14 att
+found: 5% stat, 7% stat, 7% stat
+found: 5% stat, 7% stat, +2 for every 10 levels
+found: 5% stat, +2 for every 10 levels, 5% stat
+found: 5% stat, +2 for every 10 levels, 5% all stat
+found: 5% stat, +2 for every 10 levels, +12 att
+found: 5% stat, +2 for every 10 levels, +13 att
+found: 5% stat, +2 for every 10 levels, +14 att
+found: 5% stat, +2 for every 10 levels, 7% stat
+found: 5% stat, +2 for every 10 levels, +2 for every 10 levels
+found: 5% all stat, 5% stat, 7% stat
+found: 5% all stat, 5% stat, +2 for every 10 levels
+found: 5% all stat, 5% all stat, 7% stat
+found: 5% all stat, 5% all stat, +2 for every 10 levels
+found: 5% all stat, +12 att, +13 att
+found: 5% all stat, +12 att, +14 att
+found: 5% all stat, +12 att, 7% stat
+found: 5% all stat, +12 att, +2 for every 10 levels
+found: 5% all stat, +13 att, +12 att
+found: 5% all stat, +13 att, +13 att
+found: 5% all stat, +13 att, +14 att
+found: 5% all stat, +13 att, 7% stat
+found: 5% all stat, +13 att, +2 for every 10 levels
+found: 5% all stat, +14 att, +12 att
+found: 5% all stat, +14 att, +13 att
+found: 5% all stat, +14 att, +14 att
+found: 5% all stat, +14 att, 7% stat
+found: 5% all stat, +14 att, +2 for every 10 levels
+found: 5% all stat, 7% stat, 5% stat
+found: 5% all stat, 7% stat, 5% all stat
+found: 5% all stat, 7% stat, +12 att
+found: 5% all stat, 7% stat, +13 att
+found: 5% all stat, 7% stat, +14 att
+found: 5% all stat, 7% stat, 7% stat
+found: 5% all stat, 7% stat, +2 for every 10 levels
+found: 5% all stat, +2 for every 10 levels, 5% stat
+found: 5% all stat, +2 for every 10 levels, 5% all stat
+found: 5% all stat, +2 for every 10 levels, +12 att
+found: 5% all stat, +2 for every 10 levels, +13 att
+found: 5% all stat, +2 for every 10 levels, +14 att
+found: 5% all stat, +2 for every 10 levels, 7% stat
+found: 5% all stat, +2 for every 10 levels, +2 for every 10 levels
+found: +12 att, +1 for every 10 levels, +2 for every 10 levels
+found: +12 att, 4% all stat, +2 for every 10 levels
+found: +12 att, 5% stat, +13 att
+found: +12 att, 5% stat, +14 att
+found: +12 att, 5% stat, 7% stat
+found: +12 att, 5% stat, +2 for every 10 levels
+found: +12 att, 5% all stat, +13 att
+found: +12 att, 5% all stat, +14 att
+found: +12 att, 5% all stat, 7% stat
+found: +12 att, 5% all stat, +2 for every 10 levels
+found: +12 att, +12 att, +12 att
+found: +12 att, +12 att, +13 att
+found: +12 att, +12 att, +14 att
+found: +12 att, +12 att, 7% stat
+found: +12 att, +12 att, +2 for every 10 levels
+found: +12 att, +13 att, 5% stat
+found: +12 att, +13 att, 5% all stat
+found: +12 att, +13 att, +12 att
+found: +12 att, +13 att, +13 att
+found: +12 att, +13 att, +14 att
+found: +12 att, +13 att, 7% stat
+found: +12 att, +13 att, +2 for every 10 levels
+found: +12 att, +14 att, 5% stat
+found: +12 att, +14 att, 5% all stat
+found: +12 att, +14 att, +12 att
+found: +12 att, +14 att, +13 att
+found: +12 att, +14 att, +14 att
+found: +12 att, +14 att, 7% stat
+found: +12 att, +14 att, +2 for every 10 levels
+found: +12 att, 7% stat, 5% stat
+found: +12 att, 7% stat, 5% all stat
+found: +12 att, 7% stat, +12 att
+found: +12 att, 7% stat, +13 att
+found: +12 att, 7% stat, +14 att
+found: +12 att, 7% stat, 7% stat
+found: +12 att, 7% stat, +2 for every 10 levels
+found: +12 att, +2 for every 10 levels, +1 for every 10 levels
+found: +12 att, +2 for every 10 levels, 4% all stat
+found: +12 att, +2 for every 10 levels, 5% stat
+found: +12 att, +2 for every 10 levels, 5% all stat
+found: +12 att, +2 for every 10 levels, +12 att
+found: +12 att, +2 for every 10 levels, +13 att
+found: +12 att, +2 for every 10 levels, +14 att
+found: +12 att, +2 for every 10 levels, 7% stat
+found: +12 att, +2 for every 10 levels, +2 for every 10 levels
+found: +13 att, +1 for every 10 levels, 7% stat
+found: +13 att, +1 for every 10 levels, +2 for every 10 levels
+found: +13 att, 4% all stat, +14 att
+found: +13 att, 4% all stat, 7% stat
+found: +13 att, 4% all stat, +2 for every 10 levels
+found: +13 att, 5% stat, +12 att
+found: +13 att, 5% stat, +13 att
+found: +13 att, 5% stat, +14 att
+found: +13 att, 5% stat, 7% stat
+found: +13 att, 5% stat, +2 for every 10 levels
+found: +13 att, 5% all stat, +12 att
+found: +13 att, 5% all stat, +13 att
+found: +13 att, 5% all stat, +14 att
+found: +13 att, 5% all stat, 7% stat
+found: +13 att, 5% all stat, +2 for every 10 levels
+found: +13 att, +12 att, 5% stat
+found: +13 att, +12 att, 5% all stat
+found: +13 att, +12 att, +12 att
+found: +13 att, +12 att, +13 att
+found: +13 att, +12 att, +14 att
+found: +13 att, +12 att, 7% stat
+found: +13 att, +12 att, +2 for every 10 levels
+found: +13 att, +13 att, 5% stat
+found: +13 att, +13 att, 5% all stat
+found: +13 att, +13 att, +12 att
+found: +13 att, +13 att, +13 att
+found: +13 att, +13 att, +14 att
+found: +13 att, +13 att, 7% stat
+found: +13 att, +13 att, +2 for every 10 levels
+found: +13 att, +14 att, 4% all stat
+found: +13 att, +14 att, 5% stat
+found: +13 att, +14 att, 5% all stat
+found: +13 att, +14 att, +12 att
+found: +13 att, +14 att, +13 att
+found: +13 att, +14 att, +14 att
+found: +13 att, +14 att, 7% stat
+found: +13 att, +14 att, +2 for every 10 levels
+found: +13 att, 7% stat, +1 for every 10 levels
+found: +13 att, 7% stat, 4% all stat
+found: +13 att, 7% stat, 5% stat
+found: +13 att, 7% stat, 5% all stat
+found: +13 att, 7% stat, +12 att
+found: +13 att, 7% stat, +13 att
+found: +13 att, 7% stat, +14 att
+found: +13 att, 7% stat, 7% stat
+found: +13 att, 7% stat, +2 for every 10 levels
+found: +13 att, +2 for every 10 levels, +1 for every 10 levels
+found: +13 att, +2 for every 10 levels, 4% all stat
+found: +13 att, +2 for every 10 levels, 5% stat
+found: +13 att, +2 for every 10 levels, 5% all stat
+found: +13 att, +2 for every 10 levels, +12 att
+found: +13 att, +2 for every 10 levels, +13 att
+found: +13 att, +2 for every 10 levels, +14 att
+found: +13 att, +2 for every 10 levels, 7% stat
+found: +13 att, +2 for every 10 levels, +2 for every 10 levels
+found: +14 att, +1 for every 10 levels, +14 att
+found: +14 att, +1 for every 10 levels, 7% stat
+found: +14 att, +1 for every 10 levels, +2 for every 10 levels
+found: +14 att, 4% all stat, +13 att
+found: +14 att, 4% all stat, +14 att
+found: +14 att, 4% all stat, 7% stat
+found: +14 att, 4% all stat, +2 for every 10 levels
+found: +14 att, 5% stat, +12 att
+found: +14 att, 5% stat, +13 att
+found: +14 att, 5% stat, +14 att
+found: +14 att, 5% stat, 7% stat
+found: +14 att, 5% stat, +2 for every 10 levels
+found: +14 att, 5% all stat, +12 att
+found: +14 att, 5% all stat, +13 att
+found: +14 att, 5% all stat, +14 att
+found: +14 att, 5% all stat, 7% stat
+found: +14 att, 5% all stat, +2 for every 10 levels
+found: +14 att, +12 att, 5% stat
+found: +14 att, +12 att, 5% all stat
+found: +14 att, +12 att, +12 att
+found: +14 att, +12 att, +13 att
+found: +14 att, +12 att, +14 att
+found: +14 att, +12 att, 7% stat
+found: +14 att, +12 att, +2 for every 10 levels
+found: +14 att, +13 att, 4% all stat
+found: +14 att, +13 att, 5% stat
+found: +14 att, +13 att, 5% all stat
+found: +14 att, +13 att, +12 att
+found: +14 att, +13 att, +13 att
+found: +14 att, +13 att, +14 att
+found: +14 att, +13 att, 7% stat
+found: +14 att, +13 att, +2 for every 10 levels
+found: +14 att, +14 att, +1 for every 10 levels
+found: +14 att, +14 att, 4% all stat
+found: +14 att, +14 att, 5% stat
+found: +14 att, +14 att, 5% all stat
+found: +14 att, +14 att, +12 att
+found: +14 att, +14 att, +13 att
+found: +14 att, +14 att, +14 att
+found: +14 att, +14 att, 7% stat
+found: +14 att, +14 att, +2 for every 10 levels
+found: +14 att, 7% stat, +1 for every 10 levels
+found: +14 att, 7% stat, 4% all stat
+found: +14 att, 7% stat, 5% stat
+found: +14 att, 7% stat, 5% all stat
+found: +14 att, 7% stat, +12 att
+found: +14 att, 7% stat, +13 att
+found: +14 att, 7% stat, +14 att
+found: +14 att, 7% stat, 7% stat
+found: +14 att, 7% stat, +2 for every 10 levels
+found: +14 att, +2 for every 10 levels, +1 for every 10 levels
+found: +14 att, +2 for every 10 levels, 4% all stat
+found: +14 att, +2 for every 10 levels, 5% stat
+found: +14 att, +2 for every 10 levels, 5% all stat
+found: +14 att, +2 for every 10 levels, +12 att
+found: +14 att, +2 for every 10 levels, +13 att
+found: +14 att, +2 for every 10 levels, +14 att
+found: +14 att, +2 for every 10 levels, 7% stat
+found: +14 att, +2 for every 10 levels, +2 for every 10 levels
+found: 7% stat, +1 for every 10 levels, +13 att
+found: 7% stat, +1 for every 10 levels, +14 att
+found: 7% stat, +1 for every 10 levels, 7% stat
+found: 7% stat, +1 for every 10 levels, +2 for every 10 levels
+found: 7% stat, 4% all stat, +13 att
+found: 7% stat, 4% all stat, +14 att
+found: 7% stat, 4% all stat, 7% stat
+found: 7% stat, 4% all stat, +2 for every 10 levels
+found: 7% stat, 5% stat, 5% stat
+found: 7% stat, 5% stat, 5% all stat
+found: 7% stat, 5% stat, +12 att
+found: 7% stat, 5% stat, +13 att
+found: 7% stat, 5% stat, +14 att
+found: 7% stat, 5% stat, 7% stat
+found: 7% stat, 5% stat, +2 for every 10 levels
+found: 7% stat, 5% all stat, 5% stat
+found: 7% stat, 5% all stat, 5% all stat
+found: 7% stat, 5% all stat, +12 att
+found: 7% stat, 5% all stat, +13 att
+found: 7% stat, 5% all stat, +14 att
+found: 7% stat, 5% all stat, 7% stat
+found: 7% stat, 5% all stat, +2 for every 10 levels
+found: 7% stat, +12 att, 5% stat
+found: 7% stat, +12 att, 5% all stat
+found: 7% stat, +12 att, +12 att
+found: 7% stat, +12 att, +13 att
+found: 7% stat, +12 att, +14 att
+found: 7% stat, +12 att, 7% stat
+found: 7% stat, +12 att, +2 for every 10 levels
+found: 7% stat, +13 att, +1 for every 10 levels
+found: 7% stat, +13 att, 4% all stat
+found: 7% stat, +13 att, 5% stat
+found: 7% stat, +13 att, 5% all stat
+found: 7% stat, +13 att, +12 att
+found: 7% stat, +13 att, +13 att
+found: 7% stat, +13 att, +14 att
+found: 7% stat, +13 att, 7% stat
+found: 7% stat, +13 att, +2 for every 10 levels
+found: 7% stat, +14 att, +1 for every 10 levels
+found: 7% stat, +14 att, 4% all stat
+found: 7% stat, +14 att, 5% stat
+found: 7% stat, +14 att, 5% all stat
+found: 7% stat, +14 att, +12 att
+found: 7% stat, +14 att, +13 att
+found: 7% stat, +14 att, +14 att
+found: 7% stat, +14 att, 7% stat
+found: 7% stat, +14 att, +2 for every 10 levels
+found: 7% stat, 7% stat, +1 for every 10 levels
+found: 7% stat, 7% stat, 4% all stat
+found: 7% stat, 7% stat, 5% stat
+found: 7% stat, 7% stat, 5% all stat
+found: 7% stat, 7% stat, +12 att
+found: 7% stat, 7% stat, +13 att
+found: 7% stat, 7% stat, +14 att
+found: 7% stat, 7% stat, 7% stat
+found: 7% stat, 7% stat, +2 for every 10 levels
+found: 7% stat, +2 for every 10 levels, +1 for every 10 levels
+found: 7% stat, +2 for every 10 levels, 4% all stat
+found: 7% stat, +2 for every 10 levels, 5% stat
+found: 7% stat, +2 for every 10 levels, 5% all stat
+found: 7% stat, +2 for every 10 levels, +12 att
+found: 7% stat, +2 for every 10 levels, +13 att
+found: 7% stat, +2 for every 10 levels, +14 att
+found: 7% stat, +2 for every 10 levels, 7% stat
+found: 7% stat, +2 for every 10 levels, +2 for every 10 levels
+found: +2 for every 10 levels, +1 for every 10 levels, +12 att
+found: +2 for every 10 levels, +1 for every 10 levels, +13 att
+found: +2 for every 10 levels, +1 for every 10 levels, +14 att
+found: +2 for every 10 levels, +1 for every 10 levels, 7% stat
+found: +2 for every 10 levels, +1 for every 10 levels, +2 for every 10 levels
+found: +2 for every 10 levels, 4% all stat, +12 att
+found: +2 for every 10 levels, 4% all stat, +13 att
+found: +2 for every 10 levels, 4% all stat, +14 att
+found: +2 for every 10 levels, 4% all stat, 7% stat
+found: +2 for every 10 levels, 4% all stat, +2 for every 10 levels
+found: +2 for every 10 levels, 5% stat, 5% stat
+found: +2 for every 10 levels, 5% stat, 5% all stat
+found: +2 for every 10 levels, 5% stat, +12 att
+found: +2 for every 10 levels, 5% stat, +13 att
+found: +2 for every 10 levels, 5% stat, +14 att
+found: +2 for every 10 levels, 5% stat, 7% stat
+found: +2 for every 10 levels, 5% stat, +2 for every 10 levels
+found: +2 for every 10 levels, 5% all stat, 5% stat
+found: +2 for every 10 levels, 5% all stat, 5% all stat
+found: +2 for every 10 levels, 5% all stat, +12 att
+found: +2 for every 10 levels, 5% all stat, +13 att
+found: +2 for every 10 levels, 5% all stat, +14 att
+found: +2 for every 10 levels, 5% all stat, 7% stat
+found: +2 for every 10 levels, 5% all stat, +2 for every 10 levels
+found: +2 for every 10 levels, +12 att, +1 for every 10 levels
+found: +2 for every 10 levels, +12 att, 4% all stat
+found: +2 for every 10 levels, +12 att, 5% stat
+found: +2 for every 10 levels, +12 att, 5% all stat
+found: +2 for every 10 levels, +12 att, +12 att
+found: +2 for every 10 levels, +12 att, +13 att
+found: +2 for every 10 levels, +12 att, +14 att
+found: +2 for every 10 levels, +12 att, 7% stat
+found: +2 for every 10 levels, +12 att, +2 for every 10 levels
+found: +2 for every 10 levels, +13 att, +1 for every 10 levels
+found: +2 for every 10 levels, +13 att, 4% all stat
+found: +2 for every 10 levels, +13 att, 5% stat
+found: +2 for every 10 levels, +13 att, 5% all stat
+found: +2 for every 10 levels, +13 att, +12 att
+found: +2 for every 10 levels, +13 att, +13 att
+found: +2 for every 10 levels, +13 att, +14 att
+found: +2 for every 10 levels, +13 att, 7% stat
+found: +2 for every 10 levels, +13 att, +2 for every 10 levels
+found: +2 for every 10 levels, +14 att, +1 for every 10 levels
+found: +2 for every 10 levels, +14 att, 4% all stat
+found: +2 for every 10 levels, +14 att, 5% stat
+found: +2 for every 10 levels, +14 att, 5% all stat
+found: +2 for every 10 levels, +14 att, +12 att
+found: +2 for every 10 levels, +14 att, +13 att
+found: +2 for every 10 levels, +14 att, +14 att
+found: +2 for every 10 levels, +14 att, 7% stat
+found: +2 for every 10 levels, +14 att, +2 for every 10 levels
+found: +2 for every 10 levels, 7% stat, +1 for every 10 levels
+found: +2 for every 10 levels, 7% stat, 4% all stat
+found: +2 for every 10 levels, 7% stat, 5% stat
+found: +2 for every 10 levels, 7% stat, 5% all stat
+found: +2 for every 10 levels, 7% stat, +12 att
+found: +2 for every 10 levels, 7% stat, +13 att
+found: +2 for every 10 levels, 7% stat, +14 att
+found: +2 for every 10 levels, 7% stat, 7% stat
+found: +2 for every 10 levels, 7% stat, +2 for every 10 levels
+found: +2 for every 10 levels, +2 for every 10 levels, +1 for every 10 levels
+found: +2 for every 10 levels, +2 for every 10 levels, 4% all stat
+found: +2 for every 10 levels, +2 for every 10 levels, 5% stat
+found: +2 for every 10 levels, +2 for every 10 levels, 5% all stat
+found: +2 for every 10 levels, +2 for every 10 levels, +12 att
+found: +2 for every 10 levels, +2 for every 10 levels, +13 att
+found: +2 for every 10 levels, +2 for every 10 levels, +14 att
+found: +2 for every 10 levels, +2 for every 10 levels, 7% stat
+found: +2 for every 10 levels, +2 for every 10 levels, +2 for every 10 levels
